@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Agico | App Landing Hugo Template</title>
+    <link>http://localhost:51549/agico/site/categories/</link>
+    <description>Recent content in Categories on Agico | App Landing Hugo Template</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Apr 2019 09:51:57 +0600</lastBuildDate>
+    <atom:link href="http://localhost:51549/agico/site/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Afiliated Marketing</title>
+      <link>http://localhost:51549/agico/site/categories/afiliated-marketing/</link>
+      <pubDate>Wed, 10 Apr 2019 09:51:57 +0600</pubDate>
+      <guid>http://localhost:51549/agico/site/categories/afiliated-marketing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Development Maping</title>
+      <link>http://localhost:51549/agico/site/categories/development-maping/</link>
+      <pubDate>Wed, 10 Apr 2019 09:51:57 +0600</pubDate>
+      <guid>http://localhost:51549/agico/site/categories/development-maping/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Investment Planning</title>
+      <link>http://localhost:51549/agico/site/categories/investment-planning/</link>
+      <pubDate>Wed, 10 Apr 2019 09:51:57 +0600</pubDate>
+      <guid>http://localhost:51549/agico/site/categories/investment-planning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Market Strategy</title>
+      <link>http://localhost:51549/agico/site/categories/market-strategy/</link>
+      <pubDate>Wed, 10 Apr 2019 09:51:57 +0600</pubDate>
+      <guid>http://localhost:51549/agico/site/categories/market-strategy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Targated Marketing</title>
+      <link>http://localhost:51549/agico/site/categories/targated-marketing/</link>
+      <pubDate>Wed, 10 Apr 2019 09:51:57 +0600</pubDate>
+      <guid>http://localhost:51549/agico/site/categories/targated-marketing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Valuable Idea</title>
+      <link>http://localhost:51549/agico/site/categories/valuable-idea/</link>
+      <pubDate>Wed, 10 Apr 2019 09:51:57 +0600</pubDate>
+      <guid>http://localhost:51549/agico/site/categories/valuable-idea/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
